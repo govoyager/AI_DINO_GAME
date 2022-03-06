@@ -6,8 +6,6 @@ https://blog.paperspace.com/dino-run/
 
 A Deep Convolutional Neural Network to play Google Chrome's offline Dino Run game by learning action patterns from visual input using a model-less Reinforcement Learning Algorithm
 
-<string>NOTE:</strong> This is a basic-implementation repository with some limitations. Please refer https://github.com/Paperspace/DinoRunTutorial where I've used a GPU VM for better results, with scores upto 4000
-
 
 <p>Refer the jupyter notebook for detailed implementation :<br>
 https://github.com/ravi72munde/Chrome-Dino-Reinforcement-Learning/blob/master/Reinforcement%20Learning%20Dino%20Run.ipynb
