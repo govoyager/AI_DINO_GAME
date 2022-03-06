@@ -1,6 +1,6 @@
 # Dino-Reinforcement-Learning
 
-NOTE: This repo is the basic implementation with few limitations. Please refer the new repo at https://github.com/Paperspace/DinoRunTutorial
+NOTE: This repo is the basic implementation with few limitations. 
 
 https://blog.paperspace.com/dino-run/
 
