@@ -29,7 +29,10 @@ Start by cloning the repository
 - Keras
 - Chromium driver for Selenium
 
-
+### Chromium driver installation
+ChromeDriver can be installed by going to (link - https://chromedriver.chromium.org/downloads) and also download the driver according to your chrome version which can be found under settings->About Chrome.
+Change the path of chrome driver accordingly in Reinforcement Learning Dino Run.ipynb.(Default ="../chromedriver")
+  
 ![gif](https://raw.githubusercontent.com/ravi72munde/Chrome-Dino-Reinforcement-Learning/master/img_data/trained_dino.gif)
 <br/>
 
