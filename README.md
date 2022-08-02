@@ -32,7 +32,6 @@ Start by cloning the repository
 
 ![gif](https://raw.githubusercontent.com/ravi72munde/Chrome-Dino-Reinforcement-Learning/master/img_data/trained_dino.gif)
 <br/>
-# Sample Game Play
-https://youtu.be/0oOOqGFmlDs 
+
 <br/>
 
