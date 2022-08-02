@@ -31,8 +31,15 @@ Start by cloning the repository
 
   
 ### Selenium 
-  
-  1. pip install selenium
+  * pip install selenium
+### OpenCV
+  * python --version
+  * pip -V
+  * pip install opencv-python
+### PIL
+  1. Launch a command prompt if it isn't already open. To do so, open the Windows search bar, type cmd and click on the icon.
+  2. Then, run the following command to download the get-pip.py file:
+    * curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 ### Chromium driver installation
 ChromeDriver can be installed by going to (link - https://chromedriver.chromium.org/downloads) and also download the driver according to your chrome version which can be found under settings->About Chrome.
 Change the path of chrome driver accordingly in Reinforcement Learning Dino Run.ipynb.(Default ="../chromedriver")
