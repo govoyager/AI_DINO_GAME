@@ -15,7 +15,9 @@ https://github.com/govoyager/AI_DINO_GAME/blob/main/Reinforcement%20Learning%20D
 # Installation 
 Start by cloning the repository
 <br>
+  AI DINO game
 <br>
+  
 
 `Dependencies can be installed using pip install or conda install for Anaconda environment`<br><br>
 
