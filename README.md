@@ -10,15 +10,13 @@ A Deep Convolutional Neural Network to play Google Chrome's offline Dino Run gam
 
 
 <p>Refer the jupyter notebook for detailed implementation :<br>
-https://github.com/ravi72munde/Chrome-Dino-Reinforcement-Learning/blob/master/Reinforcement%20Learning%20Dino%20Run.ipynb
-
+https://github.com/govoyager/AI_DINO_GAME/blob/main/Reinforcement%20Learning%20Dino%20Run.ipynb
 
 # Installation 
 Start by cloning the repository
 <br>
 <br>
-`$ git clone https://github.com/ravi72munde/Chrome-Dino-Reinforcement-Learning.git`
-<br>
+
 `Dependencies can be installed using pip install or conda install for Anaconda environment`<br><br>
 
 <strong>Dependencies</strong>
